@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="atithyaChampagne" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E6C97A"/>
+      <stop offset="55%" stop-color="#C49A45"/>
+      <stop offset="100%" stop-color="#9A742A"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#17120F"/>
+  <rect x="3" y="3" width="58" height="58" rx="13" stroke="url(#atithyaChampagne)" stroke-width="1.5" stroke-opacity="0.55"/>
+  <path d="M32 10C29.5 15 28.5 18.5 32 22C35.5 18.5 34.5 15 32 10Z" fill="url(#atithyaChampagne)"/>
+  <path d="M32 22C26.5 19.5 22 21 20.5 25.5C24.5 26 28.5 25 32 22Z" fill="url(#atithyaChampagne)" fill-opacity="0.85"/>
+  <path d="M32 22C37.5 19.5 42 21 43.5 25.5C39.5 26 35.5 25 32 22Z" fill="url(#atithyaChampagne)" fill-opacity="0.85"/>
+  <path d="M14 43C14 33.059 22.059 25 32 25C41.941 25 50 33.059 50 43H14Z" stroke="url(#atithyaChampagne)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M21 38C22.5 33.5 26.8 30.5 32 30.5" stroke="#F7F2E9" stroke-width="1.6" stroke-linecap="round" stroke-opacity="0.7"/>
+  <path d="M10 47.5H54" stroke="url(#atithyaChampagne)" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M20 52.5H44" stroke="#B94E2D" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" fill="none">
+  <defs>
+    <linearGradient id="logoChampagne" x1="6" y1="6" x2="62" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E6C97A"/>
+      <stop offset="55%" stop-color="#C49A45"/>
+      <stop offset="100%" stop-color="#9A742A"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="64" height="64" rx="16" fill="#17120F"/>
+  <rect x="6.5" y="6.5" width="59" height="59" rx="13.5" stroke="url(#logoChampagne)" stroke-width="1.4" stroke-opacity="0.55"/>
+  <path d="M36 14C33.5 19 32.5 22.5 36 26C39.5 22.5 38.5 19 36 14Z" fill="url(#logoChampagne)"/>
+  <path d="M36 26C30.5 23.5 26 25 24.5 29.5C28.5 30 32.5 29 36 26Z" fill="url(#logoChampagne)" fill-opacity="0.85"/>
+  <path d="M36 26C41.5 23.5 46 25 47.5 29.5C43.5 30 39.5 29 36 26Z" fill="url(#logoChampagne)" fill-opacity="0.85"/>
+  <path d="M18 47C18 37.059 26.059 29 36 29C45.941 29 54 37.059 54 47H18Z" stroke="url(#logoChampagne)" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M14 51.5H58" stroke="url(#logoChampagne)" stroke-width="2.8" stroke-linecap="round"/>
+  <path d="M24 56H48" stroke="#B94E2D" stroke-width="2" stroke-linecap="round"/>
+  <text x="82" y="41" fill="#29201A" font-family="Georgia, 'Cormorant Garamond', serif" font-size="30" font-weight="700" letter-spacing="3.2">ATITHYA</text>
+  <text x="84" y="57" fill="#8B382B" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="9.5" font-weight="600" letter-spacing="2.8">FINE DINING &amp; HOSPITALITY</text>
+</svg>
