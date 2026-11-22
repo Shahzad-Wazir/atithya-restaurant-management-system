@@ -2,6 +2,9 @@
 
 **Atithya** (*Atithi Devo Bhava* — Fine Dining & Hospitality) is a full-stack MERN restaurant management platform built to streamline end-to-end dining operations. It brings together a customer-facing ordering and table reservation storefront, a real-time Kitchen Display System (KDS), and an enterprise Admin Console with dynamic billing, sales analytics, and floor management.
 
+**Live Application:** [https://atithya-restaurant-management-syste.vercel.app/](https://atithya-restaurant-management-syste.vercel.app/)  
+*(Note: The backend is hosted on Render's free tier, so the first request after inactivity may take ~30–50 seconds to wake up.)*
+
 ---
 
 ## Key Features
